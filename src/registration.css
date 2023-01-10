@@ -1,0 +1,9 @@
+body{
+    background-image: url(BgImage.png);
+}
+.box{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:200vh;
+}
